@@ -68,7 +68,7 @@ h3 {
 }
 /* Main banner */
 .main-banner {
-    background-image: url(../img/carga-ideal-em-treinos-de-forca.jpg);
+    background-image: url(../img/fitness-men-woman-bodybuilders-1280x640.jpg);
     background-size: cover;
     background-position: center;
     padding: 17rem 0;
@@ -93,4 +93,15 @@ h3 {
 .font-1,
 .font-2 {
     font-weight: bold;
+    padding: 15px;
+    
+}
+
+.button-1 {
+    height: 35px;
+    width: 200px;
+    position: absolute;
+    left: 50px;
+    margin-top: 20px;
+    
 }
